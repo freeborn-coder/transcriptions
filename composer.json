@@ -1,5 +1,6 @@
 {
     "name": "freeborn-coder/transcriptions",
+    "description": "Load and parse VTT files",
     "autoload": {
         "psr-4": {
             "Freezy\\Transcriptions\\": "src/"
