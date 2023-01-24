@@ -1,0 +1,20 @@
+{
+    "name": "freeborn-coder/transcriptions",
+    "autoload": {
+        "psr-4": {
+            "Freezy\\Transcriptions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Freeborn Iwarri",
+            "email": "freebornganani@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5" 
+    }
+}
